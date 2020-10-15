@@ -2,9 +2,11 @@ body{
   margin: 0;
   text-align: center;
   font-family: "Merriweather", serif;
+  background: rgb(247,251,251);
+  background: linear-gradient(0deg, rgba(247,251,251,1) 0%, rgba(134,187,178,1) 86%);
 }
 h1{
-  font-size: 70px;
+  font-size: 40px;
   width: 30%;
   margin: 0 auto;
   font-family: "Sacramento", cursive;
@@ -28,10 +30,12 @@ h1{
 }
 h3{
   font-family: "Sacramento", cursive;
-  font-size: 50px;
+  font-size: 30px;
+  margin-bottom: 30px;
 }
 p{
-  font-family: "Kufam", serif;
+  font-family: "Oswald", serif;
+  margin-bottom: 40px;
 }
 .profile{
   background-color: #a3d2ca;
@@ -43,3 +47,4 @@ hr{
 .my-skills{
   height: 425px;
 }
+
